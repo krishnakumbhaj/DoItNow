@@ -39,5 +39,5 @@ Follow the steps below to set up **DoItNow** on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/DoItNow.git
+git clone https://github.com/krishnakumbhaj/DoItNow.git
 cd DoItNow
